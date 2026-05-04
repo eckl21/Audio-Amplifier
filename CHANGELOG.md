@@ -8,3 +8,8 @@ Tracking and controlling changes made in the Audio Amplifier project. Changes fo
 - Created GitHub repo for Audio Amplifier project
 - Added repo structure for design documentation, simulation notes, PCB development, and verification records
 - Added change log for recording project changes
+
+## v1.1.0 - Design update
+
+### Added
+- Added design notes for the amplifier system
