@@ -2,6 +2,13 @@
 
 Tracking and controlling changes made in the Audio Amplifier project. Changes follow semantic versioning and are linked to the relevant design area.
 
+## v1.2.0 - Pre-amplifier simulation update
+
+### Added
+- Added pre-amplifier AC sweep simulation scope
+- Added simulation notes about AC sweep
+
+
 ## v1.1.0 - Design update
 
 ### Added
