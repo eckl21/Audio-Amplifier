@@ -2,6 +2,12 @@
 
 Tracking and controlling changes made in the Audio Amplifier project. Changes follow semantic versioning and are linked to the relevant design area.
 
+## v1.1.0 - Design update
+
+### Added
+- Added design notes for the amplifier system
+
+
 ## v1.0.0 - Initial project structure
 
 ### Added
