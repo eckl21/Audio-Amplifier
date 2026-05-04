@@ -2,6 +2,12 @@
 
 Tracking and controlling changes made in the Audio Amplifier project. Changes follow semantic versioning and are linked to the relevant design area.
 
+## v1.4.0 - Class AB amplifier update
+
+### Added
+- Added class AB amplifier PCB design with signal integrity considerations
+- Added class AB amplifier PCB design with thermal considerations
+
 ## v1.3.0 - Class AB amplifier update
 
 ### Added
