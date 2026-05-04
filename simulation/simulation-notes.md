@@ -13,4 +13,4 @@ An AC sweep simulation was added for the pre-amp stage to show frequency respons
 # Class AB amplifier circuit schematic updated
 
 A circuit schematic was added for the amp stage to be designed on orcad
-![Classs AB amplifier circuit schematic](images/20260420_AudioAmplifier_ABamplifierCircuit_lm2811_v3.png)
+![Classs AB amplifier circuit schematic](images/260420_AudioAmplifier_ABamplifierCircuit_lm2811_v3.png)
