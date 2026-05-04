@@ -2,6 +2,11 @@
 
 Tracking and controlling changes made in the Audio Amplifier project. Changes follow semantic versioning and are linked to the relevant design area.
 
+## v1.3.0 - Class AB amplifier schematic update
+
+### Added
+- Added Class AB amplifier schemeatic with a gain of 4
+
 ## v1.2.0 - Pre-amplifier simulation update
 
 ### Added
