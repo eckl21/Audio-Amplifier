@@ -14,3 +14,7 @@ Added Signal integrity considerations such as increased trace width to the PCB
 Added Thermal Considerations to the PCB by adding copper spread and thermal vias for the transistors
 <img width="374" height="798" alt="PCB 11" src="https://github.com/user-attachments/assets/d04e3397-d6b2-4ff6-a281-29deeea7f79d" />
 
+## preamp PCB updated
+Added preamp PCB layout
+![preamp PCB layout](pc/PCB_images/b20260426_AudioAmplifierPreampPCB_eckl21_v1.png)
+
