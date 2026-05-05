@@ -2,6 +2,11 @@
 
 Tracking and controlling changes made in the Audio Amplifier project. Changes follow semantic versioning and are linked to the relevant design area.
 
+## v1.5.0 - preamp PCB layout update
+
+### Added
+-Added image of layout
+
 ## v1.4.0 - Class AB amplifier update
 
 ### Added
