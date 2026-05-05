@@ -16,5 +16,5 @@ Added Thermal Considerations to the PCB by adding copper spread and thermal vias
 
 ## preamp PCB updated
 Added preamp PCB layout
-![preamp PCB layout](pc/PCB_images/b20260426_AudioAmplifierPreampPCB_eckl21_v1.png)
+![preamp PCB layout](pcb/PCB_images/20260426_AudioAmplifier_PreampPCB_eckl21_v1.png)
 
